@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.local.*
+automation_logs/
+analysis_outputs/
+model_runs/
+outputs/
